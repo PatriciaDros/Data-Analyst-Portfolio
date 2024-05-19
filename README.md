@@ -18,3 +18,11 @@ In my video game data analysis project, I applied the skills I learned in Spring
 
 Although this dataset is commonly used in beginner projects, I used it as an opportunity to add an interactive element to make my analysis more engaging and level up my skills. This experience not only continues to solidifiy my foundational skills but also allowed me to try out new features and incorporate them into my work.
 
+
+
+
+## How to Open
+
+1. Download the `Video_Game_Analysis.twbx` file.
+2. Open Tableau Desktop and select `File` > `Open...`.
+3. Navigate to the downloaded `.twbx` file and open it.
