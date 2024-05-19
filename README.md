@@ -21,7 +21,7 @@ Although this dataset is commonly used in beginner projects, I used it as an opp
 
 
 
-## How to Open
+### How to Open
 
 1. Download the `Video_Game_Analysis.twbx` file.
 2. Open Tableau Desktop and select `File` > `Open...`.
