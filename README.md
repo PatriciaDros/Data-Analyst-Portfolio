@@ -12,7 +12,7 @@ In this capstone project, I conducted an in-depth analysis of sales data to dete
 For this capstone project, I delved into the analysis of hotel booking data to understand patterns and factors influencing online cancellations. Utilizing Python for data cleaning and analysis, I employed Excel to develop a comprehensive framework for dashboards and calculations. The final presentation, crafted using Tableau, included insightful visualizations and dashboards to convey findings effectively. It was an enriching experience that allowed me to apply my analytical skills and creativity to solve real-world challenges.
 
 
-## Video Games Dataset - Interactive Dashboard
+### Video Games Dataset - Interactive Dashboard
 
 In my video game data analysis project, I applied the skills I learned in Springboard, emphasizing the importance of continuous growth and learning. My first step was to understand the data thoroughly before diving into analysis. Once I had a clear picture, I cleaned the data and started exploratory data analysis (EDA) using the Python library pandas.
 
