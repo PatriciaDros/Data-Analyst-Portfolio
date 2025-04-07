@@ -13,10 +13,3 @@ For this capstone project, I delved into the analysis of hotel booking data to u
 
 
 
-
-### How to Open
-
-1. Download the `Video_Game_Analysis.twbx` file.
-2. Open Tableau Desktop and select `File` > `Open...`.
-3. Navigate to the downloaded `.twbx` file and open it.
-
